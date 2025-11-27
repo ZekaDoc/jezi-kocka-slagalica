@@ -1,1 +1,7 @@
 project_id = "zptsyztbawvdcdscrmck"
+
+[functions.generate-outfit-recommendations]
+verify_jwt = false
+
+[functions.generate-outfit-image]
+verify_jwt = false
